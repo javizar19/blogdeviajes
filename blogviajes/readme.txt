@@ -12,6 +12,8 @@ He realizado el js validation pero no he sabido implementarlo en el documento.
 
 
 Autoevaluación:
-Sinceramente, me he esforzado mucho, pero todavía me queda mucho que aprender.
-Me quedo trabado y me pongo nervioso muchas veces en fallos muy absurdos y eso es un problema, pero con tiempo y práctica se solucionará.
-Yo me pondría un 5 porqué he podido realizar bastantes de los procesos que nos marcabas en el Google Docs. 
+Me he esforzado mucho pero soy consciente de que tengo mucho margen de mejora.
+
+Mi mayor problema es que en ocasiones me paro en detalles pequeños que no me dejan avanzar pero estoy seguro de que lo solucionare con la práctica. 
+
+Me evaluaría con un 5 ya que he realizado bastantes puntos detallados en la ficha de Google Docs
