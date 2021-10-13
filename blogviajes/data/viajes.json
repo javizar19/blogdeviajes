@@ -1,0 +1,31 @@
+{
+    "viajes":[
+        {
+        "id": 1,
+        "title": "Austria",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro, dolorem sed. Voluptatem, nihil ipsa. Eveniet, officia facere est non consequatur incidunt veniam quam atque",
+        "data": "12/12/2019",
+        "author":"",
+        "img": "imagen_1.jpg",
+        "image": "favorite-on-icon.png"
+    },
+    {
+        "id": 2,
+        "title": "Moldavia",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro, dolorem sed. Voluptatem, nihil ipsa. Eveniet, officia facere est non consequatur incidunt veniam quam atque.",
+        "data": "12/12/2019",
+        "author":"",
+        "img": "imagen_2.jpg",
+        "image": "favorite-off-icon.png"
+    },
+    {
+        "id": 3,
+        "title": "Panamá",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro, dolorem sed. Voluptatem, nihil ipsa. Eveniet, officia facere est non consequatur incidunt veniam quam atque.",
+        "data": "12/12/2019",
+        "author":"",
+        "img": "imagen_3.jpg",
+        "image": "favorite-off-icon-2.png"
+    }
+   ]
+}
